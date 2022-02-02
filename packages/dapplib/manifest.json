@@ -1,0 +1,26 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        },
+        {
+            "category": "access_control",
+            "name": "core-contract_access",
+            "parameters": {}
+        },
+        {
+            "category": "nft",
+            "name": "core-custom_nft",
+            "parameters": {
+                "template": "collectible"
+            }
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "react"
+}
